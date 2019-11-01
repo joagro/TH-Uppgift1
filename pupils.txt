@@ -1,0 +1,10 @@
+9
+Oskar,Jonsson,1001
+Agnes,Petterson,1002
+Vincent,Hansson,1003
+Iben,Jensen,1004
+Linus,Karlsson,1005
+Tanja,Bergqvist,1006
+Anton,Rausing,1007
+Kjell,Skogh,1008
+Sven,Skoglund,1009
